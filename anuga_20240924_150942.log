@@ -1,0 +1,10 @@
+2024-09-24 15:10:02,672 INFO           anuga.utilities.log:0   |Logfile is './anuga_20240924_150942.log' with logging level of INFO, console logging level is CRITICAL
+2024-09-24 15:10:02,681 INFO                       polygon:996 |--------------------------------------------------------------------------------
+2024-09-24 15:10:02,681 INFO                       polygon:997 |Polygon  Max triangle area (m^2)  Total area (km^2)  Estimated #triangles
+2024-09-24 15:10:02,681 INFO                       polygon:999 |--------------------------------------------------------------------------------
+2024-09-24 15:10:02,681 INFO                       polygon:1010|Interior 30000000                 88753.41           2958
+2024-09-24 15:10:02,682 INFO                       polygon:1010|Interior 7200000                  30241.19           4200
+2024-09-24 15:10:02,682 INFO                       polygon:1010|Interior 1200000                  11288.13           9406
+2024-09-24 15:10:02,682 INFO                       polygon:1018|Bounding 30000000                 371317.27          12377
+2024-09-24 15:10:02,682 INFO                       polygon:1025|Estimated total number of triangles: 41346
+2024-09-24 15:10:02,682 INFO                       polygon:1027|Note: This is generally about 20% less than the final amount
